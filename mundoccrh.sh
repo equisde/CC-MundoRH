@@ -1,7 +1,7 @@
-#!/system/xbin/bash
+
 
 clear
-git clone https://github.com/REAL593/module
+git clone https://github.com/equisde/module
 clear
 cd module
 cat baner.txt | lolcat
